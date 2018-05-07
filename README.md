@@ -23,7 +23,7 @@ cd Presentation-Arrays-Loops-and-Functions
 - [Javascript for Kids](https://amzn.to/2Ij3jk6): A favorite book of mine becasue it breaks down each element of JavaScript for beginners in an easy way to grasp.
 
 ## Meet the Presenter
-<img src="https://avatars1.githubusercontent.com/u/29741570?s=460&v=4" alt="Dr. Teresa Vasquez" style="width: 100px;"/>
+<img src="https://avatars1.githubusercontent.com/u/29741570?s=460&v=4" alt="Dr. Teresa Vasquez" style="height: 100px;"/>
 
 **Hi! I am Dr. T...**
 The code is strong with this Gryffindor! 

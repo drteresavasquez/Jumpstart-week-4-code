@@ -1,4 +1,4 @@
-# Jumpstart-week-4-code
+# Learn About Arrays, Loops, and Functions
 
 In this presentation, attendees will gain a better understanding of JavaScript arrays, loops, and functions.
 
@@ -12,6 +12,28 @@ git clone https://github.com/drteresavasquez/Presentation-Arrays-Loops-and-Funct
 cd Presentation-Arrays-Loops-and-Functions
 ```
 
-[See Slide Presentation](https://docs.google.com/presentation/d/1ipBdyHzoOrHw4fl_Cv2dpXLcKMvjXqd2UIZ-j5vBmHU/edit?usp=sharing)
+## Presentation Resources
+- [See Slide Presentation](https://docs.google.com/presentation/d/1ipBdyHzoOrHw4fl_Cv2dpXLcKMvjXqd2UIZ-j5vBmHU/edit?usp=sharing)
 
-[Check out TOC - Open Your Console](https://drteresavasquez.github.io/Jumpstart-week-4-code/)
+- [Check out TOC - Open your browser's console to view code](https://drteresavasquez.github.io/Jumpstart-week-4-code/)
+
+## Resources for Further Learning
+
+- [W3schools Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+- [MDN Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [Javascript for Kids](https://amzn.to/2Ij3jk6): A favorite book of mine becasue it breaks down each element of JavaScript for beginners in an easy way to grasp.
+
+## Meet the Presenter
+![alt text](https://avatars1.githubusercontent.com/u/29741570?s=460&v=4 "Dr. Teresa Vasquez")
+Hi! I am Dr. T...
+The code is strong with this Gryffindor! 
+
+I am a graduate of Nashville Software School (NSS), Trevecca Nazarene University, and MTSU. I have served as a Front-End Web Developer for a local institution for 9 years and in the IT Strategic field for over 15 years. I am a currently a professor and doctoral advisor at a local institution and teach at NSS.
+
+I LOVE to read and volunteer in the community especially with organizations that focus on leveling the playing field for women, minorities and neurodiverse minds in tech.
+
+### Connect with Me
+- [My Website](http://www.drteresavasquez.com)
+- [Github](https://github.com/drteresavasquez)
+- [LinkedIn](edin.com/in/drteresavasquez/)
+- [Twitter](https://twitter.com/DrTeresaVasquez)

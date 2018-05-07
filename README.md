@@ -23,9 +23,9 @@ cd Presentation-Arrays-Loops-and-Functions
 - [Javascript for Kids](https://amzn.to/2Ij3jk6): A favorite book of mine becasue it breaks down each element of JavaScript for beginners in an easy way to grasp.
 
 ## Meet the Presenter
-<img src="https://avatars1.githubusercontent.com/u/29741570?s=460&v=4" alt="Dr. Teresa Vasquez" style="width: 200px;"/>
+<img src="https://avatars1.githubusercontent.com/u/29741570?s=460&v=4" alt="Dr. Teresa Vasquez" style="width: 100px;"/>
 
-Hi! I am Dr. T...
+**Hi! I am Dr. T...**
 The code is strong with this Gryffindor! 
 
 I am a graduate of Nashville Software School (NSS), Trevecca Nazarene University, and MTSU. I have served as a Front-End Web Developer for a local institution for 9 years and in the IT Strategic field for over 15 years. I am a currently a professor and doctoral advisor at a local institution and teach at NSS.

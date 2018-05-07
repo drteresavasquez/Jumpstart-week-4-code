@@ -3,7 +3,7 @@
 In this presentation, attendees will gain a better understanding of JavaScript arrays, loops, and functions.
 
 ## Getting Started
-You may choose to clone this repo to work on your local machine or create a [CodePen account](https://codepen.io/) to code along during the presentation.
+You may choose to clone this repo to work on your local machine, use your own code editor, or create a [CodePen account](https://codepen.io/) to code along during the presentation.
 
 ### Clone the Repo
 Navigate to or create a directory that you would like to clone the repo to and run the following commands in your terminal. 
@@ -26,6 +26,7 @@ cd Presentation-Arrays-Loops-and-Functions
 <img src="https://avatars1.githubusercontent.com/u/29741570?s=460&v=4" alt="Dr. Teresa Vasquez" style="height: 100px;"/>
 
 **Hi! I am Dr. T...**
+
 The code is strong with this Gryffindor! 
 
 I am a graduate of Nashville Software School (NSS), Trevecca Nazarene University, and MTSU. I have served as a Front-End Web Developer for a local institution for 9 years and in the IT Strategic field for over 15 years. I am a currently a professor and doctoral advisor at a local institution and teach at NSS.

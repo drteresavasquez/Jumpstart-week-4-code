@@ -14,8 +14,7 @@ cd Presentation-Arrays-Loops-and-Functions
 
 ## Presentation Resources
 - [See Slide Presentation](https://docs.google.com/presentation/d/1ipBdyHzoOrHw4fl_Cv2dpXLcKMvjXqd2UIZ-j5vBmHU/edit?usp=sharing)
-
-- [Check out TOC - Open your browser's console to view code](https://drteresavasquez.github.io/Jumpstart-week-4-code/)
+- [Check out the Table of Contents](https://drteresavasquez.github.io/Jumpstart-week-4-code/) - Open your browser's console to view code
 
 ## Resources for Further Learning
 
@@ -24,7 +23,8 @@ cd Presentation-Arrays-Loops-and-Functions
 - [Javascript for Kids](https://amzn.to/2Ij3jk6): A favorite book of mine becasue it breaks down each element of JavaScript for beginners in an easy way to grasp.
 
 ## Meet the Presenter
-![alt text](https://avatars1.githubusercontent.com/u/29741570?s=460&v=4 "Dr. Teresa Vasquez")
+![alt text](https://avatars1.githubusercontent.com/u/29741570?s=460&v=4 | width=200 "Dr. Teresa Vasquez")
+
 Hi! I am Dr. T...
 The code is strong with this Gryffindor! 
 

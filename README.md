@@ -2,6 +2,42 @@
 
 In this presentation, attendees will gain a better understanding of JavaScript arrays, loops, and functions.
 
+## Section JavaScript Code
+- [Arrays](./class-4-arrays.js)
+
+Sample code for arrays:
+```js
+let movies = [
+    "Star Wars", 
+    "Twilight", 
+    "Harry Potter", 
+    "Hunger Games", 
+    "Black Panther"
+];
+
+movies.push("Mean Girls");
+```
+- [Loops](./class-4-loops.js)
+
+Sample code for loops:
+```js
+for (let i = 1; i < 6; i++) {
+    console.log(`${i} Kitty: =^.^=`);
+}
+```
+
+- [Functions](./class-4-functions.js)
+
+Sample code for functions:
+```js
+let ourFirstFunction = function(){
+    console.log("Hello World!");
+}
+// Call the function
+ourFirstFunction();
+```
+
+
 ## Getting Started
 You may choose to clone this repo to work on your local machine, use your own code editor, or create a [CodePen account](https://codepen.io/) to code along during the presentation.
 
